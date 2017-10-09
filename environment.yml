@@ -1,0 +1,8 @@
+name: lstm-experiment
+dependencies:
+  - scipy
+  - numpy
+  - pandas
+  - tensorflow
+  - keras
+  - matplotlib
